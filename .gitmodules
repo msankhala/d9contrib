@@ -1,0 +1,4 @@
+[submodule "elastic_appsearch"]
+	path = docroot/modules/custom/elastic_appsearch
+	url = git@gitlab.com:crohnscolitisfoundation/elastic_appsearch.git
+	branch = master
