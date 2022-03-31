@@ -138,3 +138,5 @@ drush/sites/.checksums
 /sites/default/files
 /.editorconfig
 /.gitattributes
+/travis_wait*
+.phpcs-cache
